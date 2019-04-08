@@ -2,10 +2,7 @@
 	font-family: monospace;
 }
 
-h1{
-	text-align: center;
-	text-transform: uppercase;
-}
+
 
 .fundo{
 	margin: 0 auto 20px auto;
@@ -18,7 +15,7 @@ h1{
 }
 
 .caixa2{
-	width: 15.66667%;
+	width: 32%;
 }
 
 .branco{
@@ -28,24 +25,4 @@ h1{
 .clearfix {
 	content: ' ';
 	display: table;
-}
-
-.green{
-	background-color: #8bc74c
-}
-
-.purple{
-	background-color: #8844ee
-}
-
-.blue{
-	background-color: #04aded
-}
-
-.yellow{
-	background-color: #fff42b
-}
-
-.red{
-	background-color: red
 }
